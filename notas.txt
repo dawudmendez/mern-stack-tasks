@@ -1,0 +1,5 @@
+Levantar MongoDB:
+sudo service mongod start
+
+Abrir consola de mongo:
+mongo
